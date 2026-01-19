@@ -1,13 +1,11 @@
 # Song Generator
 
-A small Python project for training a simple song/lyrics generation model and then generating new text from it.
+Python project for training a song/lyrics generation model and then generating new text from it.
 
 This repo is organized as a lightweight pipeline:
 1) preprocess / clean text data  
 2) train a model  
 3) generate new samples from a prompt or seed
-
-> Note: The exact dataset format and hyperparameters are defined in the code. If you change your dataset location or naming, you’ll likely only need to adjust `train.py` / `data_processing.py`.
 
 ---
 
