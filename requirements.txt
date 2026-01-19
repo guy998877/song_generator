@@ -1,0 +1,7 @@
+torch
+numpy
+pandas
+spacy
+scikit-learn
+gensim
+huggingface-hub
